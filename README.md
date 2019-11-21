@@ -84,8 +84,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/solisjose46/ParseInstagram/blob/master/walkthrough2_ParseInsta.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
